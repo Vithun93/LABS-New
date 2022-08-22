@@ -1,1 +1,18 @@
-
+# Project 4 Data Visualisation
+## Introduction
+This project is about employee attrition at IBM. The Dataset was provided by the Data Analysts in collaboration with HR at IBM.
+Since employees are the backbone of any organization. The performance of any company is heavily based on the quality of the employees and the capacity in retaining them. With employee attrition, organizations are faced with many challenges.
+In this project we are expected to clean the data, and then produce a clean dataset, create a notebook in which we try to learn more about the employees and find out correlation between the factors we have in hand and figure out a way to use them to predict employees’ attrition and potentially a way to retain them.
+## Steps of the project:
+Plan the project using the Kanban method
+Clean the Data
+Plot on Jupyter Notebook
+Conclusion
+## Challenges:
+As much as we were happy about the clean Dataset, we figured it was very limited to get any definite insight about company attrition. We would have liked to have more data about gender/ relationship with management/ perks of the job if any….
+## Deliverables
+- ‘Data Visualisation’.ipynb`,
+- ‘Readme.md’
+- ‘Slides’
+## Submission
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
